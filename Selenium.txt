@@ -1,0 +1,5 @@
+Selenium testing
+ONLINE SHOPPING SYSTEM -AMAZON 
+Online Shopping System Testing Using Selenium
+- Performed functional and regression testing of an Amazon-style online shopping system using Selenium.
+- Tested product search, filters, add/remove cart, and search history; documented test cases and pass/fail results.
